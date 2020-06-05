@@ -1,0 +1,42 @@
+form {
+    position: relative;
+    width: 60%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+form button {
+    font-weight: bold;
+    width: 20%;
+    text-transform: uppercase;
+    border-radius: 2px;
+    height: 50px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+
+form button:hover {
+    background-color: darkgoldenrod;
+    color: black;
+
+}
+
+label {
+    display: block;
+    margin: 20px;
+    height: 50px;
+    font-size: 1.2em;
+}
+
+input {
+    position: relative;
+    float: right;
+    width: 70%;
+    height: 50px;
+}
+
+.all {
+    margin: 50px;
+}

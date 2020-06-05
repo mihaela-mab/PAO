@@ -1,0 +1,17 @@
+hr {
+    margin-top: 200px;
+}
+
+footer {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    margin-top: 50px;
+}
+
+h1 {
+    color: goldenrod;
+}

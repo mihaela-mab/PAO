@@ -1,0 +1,96 @@
+Add an employee,2020-04-29 19:56:15.237
+Remove a play,2020-04-29 19:56:20.34
+List the number of spectators of a play,2020-04-29 19:56:36.761
+List halls by floor number,2020-04-29 19:56:43.246
+Show details about the theatre,2020-04-29 20:00:24.233
+List all the actors,2020-04-29 20:00:28.663
+Add an employee,2020-04-29 22:16:56.369
+Show details about the theatre,2020-04-29 22:17:07.663
+List all the actors,2020-04-29 22:17:13.188
+List all the plays,2020-04-29 22:17:16.495
+Add a play,2020-04-30 16:18:52.375
+Add a play,2020-04-30 16:24:28.822
+Add a ticket,2020-04-30 17:20:34.011
+Add a ticket,2020-04-30 17:25:58.658
+Add a ticket,2020-04-30 17:32:05.862
+Add a hall,2020-04-30 17:37:12.206
+Add a spectator,2020-04-30 17:38:19.695
+List all the actors,2020-04-30 20:00:20.383
+List all the actors,2020-05-28 23:00:06.829
+List all the plays,2020-06-01 15:49:24.776
+List all the plays,2020-06-01 15:59:56.021
+List all the plays,2020-06-01 16:01:52.067
+List all the plays,2020-06-01 16:02:34.22
+List all the plays,2020-06-01 16:03:27.107
+Add an employee,2020-06-01 16:39:39.773
+List all the actors,2020-06-01 16:39:49.073
+Add an employee,2020-06-01 16:43:03.257
+Add an employee,2020-06-01 17:47:09.063
+Add an employee,2020-06-01 17:47:56.159
+Add an employee,2020-06-01 17:48:53.641
+Delete an employee,2020-06-01 17:49:32.998
+Add an employee,2020-06-01 17:56:33.628
+Delete an employee,2020-06-01 17:56:59.578
+Delete an employee,2020-06-01 17:57:40.847
+Add an employee,2020-06-01 17:58:26.862
+Delete an employee,2020-06-01 17:58:31.317
+Add a play,2020-06-01 19:45:25.294
+Add a play,2020-06-01 20:18:55.273
+Add a play,2020-06-01 20:19:30.535
+Add a play,2020-06-01 20:20:01.169
+Remove a play,2020-06-01 20:24:05.181
+Remove a play,2020-06-01 20:24:58.141
+Remove a play,2020-06-01 20:25:33.166
+List all the plays,2020-06-01 20:34:51.285
+Update the price of a play,2020-06-01 20:53:57.672
+Update the price of a play,2020-06-01 20:56:08.196
+List halls by floor number,2020-06-01 21:48:43.046
+List halls by floor number,2020-06-01 21:50:25.414
+List all the purchased tickets,2020-06-01 22:18:28.729
+Add an employee *,2020-06-01 22:50:06.638
+Delete an employee *,2020-06-01 22:51:05.683
+Delete an employee *,2020-06-01 22:51:25.076
+Remove a play *,2020-06-01 22:52:13.67
+List all plays,2020-06-03 14:32:43.151,http-nio-8080-exec-4
+List all actors,2020-06-03 14:45:05.992,http-nio-8080-exec-4
+List all plays,2020-06-03 14:47:37.822,http-nio-8080-exec-7
+List all the plays,2020-06-03 15:07:31.729,http-nio-8080-exec-4
+List all the actors,2020-06-03 15:07:34.985,http-nio-8080-exec-6
+List all the tickets,2020-06-03 15:07:38.376,http-nio-8080-exec-9
+List halls by floor number,2020-06-03 15:07:47.535,http-nio-8080-exec-3
+Add en employee,2020-06-03 15:12:09.986,http-nio-8080-exec-8
+Add a play,2020-06-03 15:12:47.813,http-nio-8080-exec-4
+List all the plays,2020-06-03 15:12:51.502,http-nio-8080-exec-5
+Remove an employee,2020-06-03 15:13:41.328,http-nio-8080-exec-1
+Remove a play,2020-06-03 15:13:54.842,http-nio-8080-exec-5
+Update the price of a play,2020-06-03 15:20:49.496,http-nio-8080-exec-1
+List all the plays,2020-06-03 15:33:13.206,http-nio-8080-exec-5
+List all the plays,2020-06-03 15:37:27.703,http-nio-8080-exec-8
+List all the plays,2020-06-03 15:42:13.805,http-nio-8080-exec-5
+List all the plays,2020-06-03 15:45:38.517,http-nio-8080-exec-9
+List all the actors,2020-06-03 15:45:44.328,http-nio-8080-exec-1
+List all the tickets,2020-06-03 15:45:57.021,http-nio-8080-exec-4
+List halls by floor number,2020-06-03 15:48:50.187,http-nio-8080-exec-10
+List halls by floor number,2020-06-03 15:49:00.089,http-nio-8080-exec-1
+List all the plays,2020-06-03 15:49:52.287,http-nio-8080-exec-10
+Update the price of a play,2020-06-03 15:50:46.427,http-nio-8080-exec-1
+List all the plays,2020-06-03 17:01:07.058,http-nio-8080-exec-5
+List all the plays,2020-06-03 17:02:22.276,http-nio-8080-exec-4
+List all the actors,2020-06-03 17:05:41.049,http-nio-8080-exec-5
+Update the price of a play,2020-06-03 17:28:10.118,http-nio-8080-exec-7
+Update the price of a play,2020-06-03 17:28:10.297,http-nio-8080-exec-8
+Update the price of a play,2020-06-03 17:32:50.453,http-nio-8080-exec-6
+Update the price of a play,2020-06-03 17:35:49.17,http-nio-8080-exec-7
+Update the price of a play,2020-06-03 17:37:04.658,http-nio-8080-exec-6
+Update the price of a play,2020-06-03 17:37:23.128,http-nio-8080-exec-1
+List all the plays,2020-06-03 17:47:38.23,http-nio-8080-exec-5
+List all the plays,2020-06-03 18:06:08.066,http-nio-8080-exec-4
+List all the actors,2020-06-03 18:06:15.545,http-nio-8080-exec-7
+List all the tickets,2020-06-03 18:06:18.853,http-nio-8080-exec-10
+List halls by floor number,2020-06-03 18:06:42.636,http-nio-8080-exec-4
+List halls by floor number,2020-06-03 18:06:48.539,http-nio-8080-exec-6
+Add en employee,2020-06-03 18:07:08.426,http-nio-8080-exec-10
+List all the plays,2020-06-03 18:07:31.55,http-nio-8080-exec-6
+Remove an employee,2020-06-03 18:07:48.901,http-nio-8080-exec-10
+Remove a play,2020-06-03 18:08:00.673,http-nio-8080-exec-4
+Update the price of a play,2020-06-03 18:08:17.442,http-nio-8080-exec-8
